@@ -1,0 +1,19 @@
+﻿.wrapper {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.container {
+    width: 70%;
+    padding: 0 15px;
+    margin: 0 auto;
+
+    &__container-fixed-500 {
+        width: 500px;
+    }
+
+    &__container-fixed-700 {
+        width: 700px;
+    }
+}

@@ -1,0 +1,137 @@
+﻿
+.wrapper {
+    .container {
+        width: 90%;
+    }
+}
+
+.courses {
+    margin-top: 80px;
+
+    .container {
+        margin-top: 50px;
+        width: 90%;
+        margin: 0 auto;
+
+        .title {
+            display: flex;
+            width: 100%;
+            min-height: 64px;
+
+            h1 {
+                width: 100%;
+            }
+        }
+
+        #form-filters {
+            display: flex;
+            justify-content: flex-end;
+
+            .input-search-group {
+                height: 44px;
+                max-width: 300px;
+
+                i {
+                    &:before {
+                        font-weight: inherit;
+                    }
+                }
+
+                input {
+                    min-width: 300px;
+                }
+            }
+
+            select {
+                width: 48%;
+                height: 44px;
+                max-width: 240px;
+            }
+        }
+
+        .course-items {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 40px;
+            margin: 50px 0 80px 80px;
+            align-items: end;
+
+            .course {
+                width: 400px;
+                text-decoration: none;
+                
+
+                .bestseller {
+                    position: relative;
+                    top: 80px;
+                    left: 20px;
+                    z-index: 10;
+                    color: white;
+                    background-color: #22C55E;
+                    width: 100px;
+                    padding: 8px;
+                    border-radius: 8px;
+                }
+
+                .bookmark {
+                    position: relative;
+                    width: 50px;
+                    top: 50px;
+                    left: 340px;
+                    z-index: 10;
+                    color: grey;
+                    width: 40px;
+                    padding: 8px;
+                    border-radius: 50%;
+                }
+
+                .content {
+                    text-decoration: none;
+
+                    .author {
+                        font-size: 14px;
+                        color: var(--color-gray-700);
+                    }
+
+                    .pricing {
+                        padding-bottom: 20px;
+                        display: flex;
+
+                        .price {
+                            font-size: 18px;
+                            font-weight: 700;
+                        }
+
+                        .discount {
+                            margin-right: 10px;
+                            color: #EF4444;
+                            font-weight: 700;
+                            font-size: 18px;
+
+                            .price discount-enabled {
+                                text-decoration: line-through;
+                            }
+                        }
+                    }
+
+                    .footer {
+                        display: flex;
+                        font-size: 14px;
+                        color: var(--color-gray-600);
+                        justify-content: flex-start;
+                        padding-top: 25px;
+                        border-top: 1px solid var(--color-gray-300);
+
+                        .hours {
+                            margin-right: 30px;
+                        }
+                    }
+                }
+            }
+
+            img {
+                max-width: 400px;
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+﻿@model AccountDetailsViewModel
+@{
+    ViewData["Title"] = "Account Details";
+}
+
+<section class="account-details">
+    <div class="container">
+        @if (!string.IsNullOrEmpty(TempData["StatusMessage"]?.ToString()))
+        {
+            <div class="alert alert-danger">
+                @TempData["StatusMessage"]
+            </div>
+
+        }
+       
+        <aside>
+            <partial name="~/Views/Account/_AccountProfile.cshtml" />
+        </aside>
+
+        <div class="content">
+            <form class="form-basic" method="post" asp-action="UpdateBasicInfo" app-controller="Account">
+                <h5>Basic Info</h5>
+                <div class="form-content">
+                    <div id="form-firstname" class="input-group">
+                        <label asp-for="Basic!.FirstName"></label>
+                        <input asp-for="Basic!.FirstName" />
+                        <span asp-validation-for="Basic!.FirstName"></span>
+                    </div>
+                    <div id="form-lastname" class="input-group">
+                        <label asp-for="Basic!.LastName"></label>
+                        <input asp-for="Basic!.LastName" />
+                        <span asp-validation-for="Basic!.LastName"></span>
+                    </div>
+                    <div id="form-email" class="input-group">
+                        <label asp-for="Basic!.Email"></label>
+                        <input asp-for="Basic!.Email" />
+                        <span asp-validation-for="Basic!.Email"></span>
+                    </div>
+                    <div id="form-phone" class="input-group">
+                        <label asp-for="Basic!.PhoneNumber"></label>
+                        <input asp-for="Basic!.PhoneNumber" />
+                        <span asp-validation-for="Basic!.PhoneNumber"></span>
+                    </div>
+                    <div id="form-bio" class="input-group">
+                        <label asp-for="Basic!.Bio"></label>
+                        <textarea asp-for="Basic!.Bio"></textarea>
+                    </div>
+                    <div class="form-button">
+                        <button type="reset" class="btn btn-grey">
+                            Cancel
+                        </button>
+                        <button type="submit" class="btn btn-theme">
+                            Save Changes
+                        </button>
+                    </div>
+                </div>
+            </form>
+
+            <form class="form-address" method="post" asp-action="UpdateAddressInfo" app-controller="Account">
+                <h5>Address Info</h5>
+                <div class="form-content">
+                    <div id="form-addressline-1" class="input-group">
+                        <label asp-for="Address!.AddressLine_1"></label>
+                        <input asp-for="Address!.AddressLine_1" />
+                        <span asp-validation-for="Address!.AddressLine_1"></span>
+                    </div>
+                    <div id="form-addressline-2" class="input-group">
+                        <label asp-for="Address!.AddressLine_2"></label>
+                        <input asp-for="Address!.AddressLine_2" />
+                        <span asp-validation-for="Address!.AddressLine_2"></span>
+                    </div>
+                    <div id="form-postalcode" class="input-group">
+                        <label asp-for="Address!.PostalCode"></label>
+                        <input asp-for="Address!.PostalCode" />
+                        <span asp-validation-for="Address!.PostalCode"></span>
+                    </div>
+                    <div id="form-city" class="input-group">
+                        <label asp-for="Address!.City"></label>
+                        <input asp-for="Address!.City" />
+                        <span asp-validation-for="Address!.City"></span>
+                    </div>
+                    <div class="form-button">
+                        <button type="reset" class="btn btn-grey">
+                            Cancel
+                        </button>
+                        <button type="submit" class="btn btn-theme">
+                            Save Changes
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>

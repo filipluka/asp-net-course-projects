@@ -1,0 +1,44 @@
+﻿.signup {
+    .container {
+        margin-top: 70px;
+        margin-bottom: 50px;
+        width: 40%;
+    }
+
+
+    form {
+        p {
+            padding: 30px 0;
+        }
+
+        .form-content {
+            .input-group {
+                margin-bottom: 30px;
+
+                label {
+                    font-weight: 700;
+                }
+            }
+
+            #form-checkbox {
+                label {
+                    font-weight: 500;
+                }
+            }
+
+            #form-button {
+                button {
+                    height: 52px;
+                }
+            }
+        }
+
+        input[type=checkbox] {
+            min-width: 20px;
+        }
+
+        .field-validation-error {
+            color: var(--color-danger);
+        }
+    }
+}

@@ -1,0 +1,46 @@
+﻿#lightdark {
+    background-color: var(--color-gray-100);
+    position: relative;
+
+    .dark-bg {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        background-color: var(--color-gray-900);
+        height: 100%;
+        width: 50vw;
+        z-index: 0;
+    }
+
+    .container {
+        padding: 3rem 0;
+        position: relative;
+
+        .title {
+            display: flex;
+            justify-content: center;
+            margin: 2rem 0;
+
+            h1 {
+                flex: 1;
+            }
+
+            .light {
+                text-align: right;
+                color: var(--color-white);
+            }
+
+            .dark {
+                text-align: left;
+                color: var(--color-gray-900);
+                margin-left: 50px;
+            }
+        }
+
+        .img-container {
+            display: grid;
+            justify-content: center;
+            text-align: center;
+        }
+    }
+}

@@ -1,0 +1,40 @@
+﻿a {
+    @include standard-text;
+    color: var(--color-theme);
+    text-decoration: none;
+    transition: all 0.25s ease-in-out;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.menu-link {
+    @include text-s;
+    text-decoration: none !important;
+    transition: color 0.25s ease-in-out;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    i {
+        background: var(--color-gray-100);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        border-radius: 50%;
+        transition: all 0.1s ease-in-out;
+    }
+
+    &:hover {
+        span {
+            text-decoration: underline;
+        }
+
+        i {
+            background: var(--color-gray-700);
+            color: var(--color-gray-100);
+        }
+    }
+}

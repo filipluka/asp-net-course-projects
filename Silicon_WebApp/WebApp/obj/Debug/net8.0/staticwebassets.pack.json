@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_alerts.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_container.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_links.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_links.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_typography.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\core\\_common.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\core\\_fonts.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\core\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\core\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_account_details.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_account_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_account_profile.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_account_profile.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_courses.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_courses.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_download_app.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_download_app.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_features.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_features.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_integrate_tools.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_integrate_tools.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_light_dark.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_light_dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_manage_work.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_manage_work.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_showcase.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_showcase.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signin.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_signup.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signup.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_subscribe_to_newsletter.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_subscribe_to_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_1.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_2.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_3.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_4.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_5.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_5.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_6.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_6.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_7.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_7.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_8.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_8.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_9.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_9.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\Dropbox.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\Dropbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\Evernote.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\Evernote.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\Google.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\Google.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\MailChimp.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\MailChimp.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\Slack.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\Slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\Trello.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\Trello.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\Zoom.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\Zoom.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\add-group.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\add-group.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\arrows.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\arrows.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\bell.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\bell.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\brand-1.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\brand-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\brand-2.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\brand-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\brand-3.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\brand-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\brand-4.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\brand-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\chat.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\chat.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\gmail.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\gmail.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\presentation.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\presentation.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\shield.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\shield.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\test.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\test.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\appstore.svg",
+      "PackagePath": "staticwebassets\\images\\other\\appstore.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\googleplay.svg",
+      "PackagePath": "staticwebassets\\images\\other\\googleplay.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\manage-work.svg",
+      "PackagePath": "staticwebassets\\images\\other\\manage-work.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\mockup.svg",
+      "PackagePath": "staticwebassets\\images\\other\\mockup.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\screens.svg",
+      "PackagePath": "staticwebassets\\images\\other\\screens.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\silicon-logo-light_theme.svg",
+      "PackagePath": "staticwebassets\\images\\other\\silicon-logo-light_theme.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\task-management.svg",
+      "PackagePath": "staticwebassets\\images\\other\\task-management.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\uploads\\profiles\\avatar.svg",
+      "PackagePath": "staticwebassets\\images\\uploads\\profiles\\avatar.svg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\images\\uploads\\profiles\\p_aa8445bf-b59b-4af1-ba8f-dfc81a6cd113_ab5a2981-8a1c-4472-b3e9-00132aeaf353.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\profiles\\p_aa8445bf-b59b-4af1-ba8f-dfc81a6cd113_ab5a2981-8a1c-4472-b3e9-00132aeaf353.jpg"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\filip\\Projects\\WebAPI\\Silicon_WebApp\\WebApp\\wwwroot\\js\\validation.js",
+      "PackagePath": "staticwebassets\\js\\validation.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,31 @@
+﻿#integrate-tools {
+    background-color: var(--color-gray-100);
+    padding: 4rem 0;
+
+    .container {
+        text-align: center;
+        display: grid;
+
+        .title {
+            width: 60%;
+            margin: 4rem auto;
+        }
+
+        .tools {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            gap: 40px;
+
+            .tool {
+                text-align: left;
+                padding: 2rem;
+                border-radius: 8px;
+                transition: 0.2s ease-in-out;
+
+                &:hover {
+                    box-shadow: 0 0 14px -4px rgba(0, 0, 0, 0.4);
+                }
+            }
+        }
+    }
+}

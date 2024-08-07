@@ -1,0 +1,37 @@
+﻿#download-app {
+    background-color: var(--color-gray-300);
+
+    .container {
+        display: flex;
+        background-color: var(--color-gray-300);
+        justify-content: space-between;
+        padding: 5rem 1rem;
+
+        .download-image {
+            min-width: 60%;
+        }
+
+        .content {
+            flex: 1;
+
+            .download-app-group {
+                margin: 2rem 0;
+                display: flex;
+                justify-content: space-between;
+
+                .store {
+                    color: var(--color-gray-600);
+                }
+
+                .rating {
+                    color: goldenrod;
+                    margin-bottom: 20px;
+                }
+
+                img {
+                    align-self: end;
+                }
+            }
+        }
+    }
+}

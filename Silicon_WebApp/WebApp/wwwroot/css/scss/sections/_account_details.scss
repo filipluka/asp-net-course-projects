@@ -1,0 +1,47 @@
+﻿.account-details {
+    .container {
+        display: flex;
+        margin: 60px 0 0 0;
+
+        aside {
+            width: 30%;
+
+            i {
+                &:before {
+                    font-weight: inherit;
+                }
+            }
+        }
+
+        .content {
+            width: 70%;
+
+            h5 {
+                margin: 20px 0;
+            }
+
+            form {
+                margin-bottom: 60px;
+
+                input,
+                textarea {
+                    margin-bottom: 20px;
+                }
+
+                .form-button {
+                    display: flex;
+                    justify-content: space-around;
+
+                    button {
+                        width: 35%;
+                        box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.25);
+                    }
+
+                    button[type="reset"] {
+                        border: 1px solid var(--color-gray-400);
+                    }
+                }
+            }
+        }
+    }
+}

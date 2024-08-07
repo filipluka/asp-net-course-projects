@@ -1,0 +1,217 @@
+﻿
+.btn {
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: var(--color-gray-800);
+    outline: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    transition: background 0.15s ease-in-out, color 0.15s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+
+    i {
+        margin-right: 1rem;
+    }
+
+    &:hover {
+        border: 1px solid var(--color-gray-300);
+        background-color: var(--color-gray-300);
+        color: var(--color-gray-100);
+        text-decoration: none;
+    }
+}
+
+.btn-nav {
+    padding: 8px 0;
+    font-size: 16px;
+
+    &:active {
+        border: 1px solid var(--color-theme);
+        background-color: var(--color-theme);
+        color: var(--color-white);
+    }
+
+    &:hover {
+        border: 1px solid var(--color-gray-800);
+        background-color: var(--color-gray-800);
+        color: var(--color-gray-100);
+        text-decoration: none;
+    }
+}
+
+.btn-theme {
+    background-color: var(--color-theme);
+    color: var(--color-white);
+    border: 1px solid var(--color-theme);
+
+    &:hover {
+        border: 1px solid var(--color-gray-800);
+        background-color: var(--color-gray-800);
+        color: var(--color-gray-100);
+        text-decoration: none;
+    }
+}
+
+.btn-grey {
+    background-color: var(--color-gray);
+    color: var(--color-black);
+    border: 1px solid var(--color-gray);
+
+    &:hover {
+        border: 1px solid var(--color-theme);
+        background-color: var(--color-theme);
+        color: var(--color-white);
+        text-decoration: none;
+    }
+}
+
+.btn-white {
+    background-color: var(--color-white);
+    color: var(--color-gray-100);
+    border: 1px solid var(--color-gray-100);
+
+    &:hover {
+        border: 1px solid var(--color-gray-700);
+        background-color: var(--color-gray-700);
+        color: var(--color-white);
+        text-decoration: none;
+
+        i {
+            color: var(--color-white);
+        }
+    }
+}
+
+.btn-social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    width: 44px;
+    height: 44px;
+    background-color: var(--color-gray-200);
+    color: var(--color-gray-800);
+
+    &:hover {
+        text-decoration: none;
+        background: var(--color-gray-700);
+        color: var(--color-gray-100);
+    }
+}
+
+.btn-circle {
+    background-color: var(--color-white);
+    color: var(--color-gray-700);
+    width: 30px;
+    height: 30px;
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 50%;
+    border: 1px solid var(--color-gray-300);
+    box-shadow: 0 4px 4px -4px rgb(0,0,0,0.25);
+
+
+    i {
+     margin-top: 2px; 
+     margin-right: 0;
+    }
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.btn-switch {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    label {
+        @include text-nav;
+    }
+
+    .switch {
+        position: relative;
+        display: inline-block;
+        width: 46px;
+        height: 25px;
+
+        & input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+
+            &:checked * .slider {
+                background-color: var(--color-theme);
+            }
+
+            &:focus * .slider {
+                box-shadow: 0 0 1px var(--color-theme);
+            }
+
+            &:checked * .slider:before {
+                transform: translateX(20px);
+                background-color: var(--color-white);
+            }
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: var(--color-gray-700);
+            transition: .4s;
+
+            &:before {
+                position: absolute;
+                content: "";
+                height: 20px;
+                width: 20px;
+                left: 1px;
+                bottom: 2.7px;
+                background-color: var(--color-white);
+                transition: .4s;
+            }
+
+            &-round {
+                border-radius: 34px;
+            }
+
+            &-round:before {
+                border-radius: 50%;
+            }
+        }
+    }
+}
+
+.btn-social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    width: 44px;
+    height: 44px;
+    background-color: var(--color-gray-200);
+    color: var(--color-gray-800);
+
+    i {
+        margin: 0;
+    }
+
+    &:hover {
+        text-decoration: none;
+        background: var(--color-gray-700);
+        color: var(--color-gray-100);
+    }
+}
+
+.btn-circle-sm {
+    width: 30px;
+    height: 30px;
+}

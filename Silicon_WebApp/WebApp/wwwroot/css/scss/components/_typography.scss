@@ -1,0 +1,48 @@
+﻿.display-1 {
+    @include d1;
+}
+
+.display-2 {
+    @include d2;
+}
+
+.display-3 {
+    @include d3;
+}
+
+.display-4 {
+    @include d4;
+}
+
+.display-5 {
+    @include d5;
+}
+
+.display-6 {
+    @include d6;
+}
+
+h1 {
+    @include h1;
+}
+
+h2 {
+    @include h2;
+}
+
+h3 {
+    @include h3;
+}
+
+h4 {
+    @include h4;
+}
+
+h5 {
+    @include h5;
+}
+
+h6 {
+    @include h6;
+}
+

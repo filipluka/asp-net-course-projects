@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|c:\\users\\filip\\projects\\webapi\\siliconwebapi\\infrastructure\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB6D6E3-027A-46C5-B9D7-A849BD32D23B}|WebAPI\\WebAPI.csproj|c:\\users\\filip\\projects\\webapi\\siliconwebapi\\webapi\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB6D6E3-027A-46C5-B9D7-A849BD32D23B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|c:\\users\\filip\\projects\\webapi\\siliconwebapi\\infrastructure\\entities\\subscribersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\subscribersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|c:\\users\\filip\\projects\\webapi\\siliconwebapi\\infrastructure\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB6D6E3-027A-46C5-B9D7-A849BD32D23B}|WebAPI\\WebAPI.csproj|c:\\users\\filip\\projects\\webapi\\siliconwebapi\\webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB6D6E3-027A-46C5-B9D7-A849BD32D23B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filip\\AppData\\Local\\Temp\\dbo.Courses(2).data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|c:\\users\\filip\\projects\\webapi\\siliconwebapi\\infrastructure\\migrations\\20240802230543_subscriber table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240802230543_subscriber table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB6D6E3-027A-46C5-B9D7-A849BD32D23B}|WebAPI\\WebAPI.csproj|c:\\users\\filip\\projects\\webapi\\siliconwebapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB6D6E3-027A-46C5-B9D7-A849BD32D23B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB6D6E3-027A-46C5-B9D7-A849BD32D23B}|WebAPI\\WebAPI.csproj|c:\\users\\filip\\projects\\webapi\\siliconwebapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DB6D6E3-027A-46C5-B9D7-A849BD32D23B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|c:\\users\\filip\\projects\\webapi\\siliconwebapi\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBA6228E-5581-465B-BC74-7F33546AE210}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIContext.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Contexts\\APIContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Contexts\\APIContext.cs",
+              "ToolTip": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Contexts\\APIContext.cs",
+              "RelativeToolTip": "Infrastructure\\Contexts\\APIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:29:58.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscribeController.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\WebAPI\\Controllers\\SubscribeController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\SubscribeController.cs",
+              "ToolTip": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\WebAPI\\Controllers\\SubscribeController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\SubscribeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:35:20.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:46:26.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\WebAPI\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\WebAPI\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:36:12.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Entities\\CourseEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\CourseEntity.cs",
+              "ToolTip": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Entities\\CourseEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\CourseEntity.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:49:56.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscribersEntity.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Entities\\SubscribersEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\SubscribersEntity.cs",
+              "ToolTip": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Entities\\SubscribersEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\SubscribersEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:25:40.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240802230543_Subscriber Table Added.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Migrations\\20240802230543_Subscriber Table Added.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240802230543_Subscriber Table Added.cs",
+              "ToolTip": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Migrations\\20240802230543_Subscriber Table Added.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240802230543_Subscriber Table Added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:05:44.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Courses(2).data ",
+              "DocumentMoniker": "C:\\Users\\filip\\AppData\\Local\\Temp\\dbo.Courses(2).data.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\dbo.Courses(2).data.sql",
+              "ToolTip": "dbo.Courses(2).data *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-03T00:43:14.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T22:49:40.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\filip\\Projects\\WebAPI\\SiliconWebAPI\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T21:17:34.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
