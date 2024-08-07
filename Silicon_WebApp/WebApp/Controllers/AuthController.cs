@@ -65,7 +65,7 @@ public class AuthController(UserManager<UserEntity> userManager, SignInManager<U
     [Route("/signin")]
     public IActionResult SignIn(string returnUrl)
     {
-        ViewData["ReturnUrl"] = returnUrl ?? "/";
+        ViewData["ReturnUrl"] = returnUrl ?? "/account/details";
         return View();
     }
 
@@ -82,7 +82,7 @@ public class AuthController(UserManager<UserEntity> userManager, SignInManager<U
             }
 
         }
-        ViewData["ReturnUrl"] = returnUrl;
+        ViewData["ReturnUrl"] = returnUrl ?? "/account/details"; ;
         ViewData["StatusMessage"] = "Incorrect Email or Password";
         return View(model);
     }
